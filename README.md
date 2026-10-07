@@ -1,3 +1,15 @@
+# 🏢 Dormitory Management Database (SQL Server)
+
+**🇬🇧 English** · [🇹🇷 Türkçe](#-yurt-yönetim-sistemi)
+
+A relational **Microsoft SQL Server** database for running a student dormitory. It tracks **rooms** (capacity, occupancy, floor), **students**, **staff** and **payments** in one schema with primary/foreign keys and sample data.
+
+- 4 normalized tables: `Oda` (rooms), `Öğrenci` (students), `Personel` (staff), `Ödeme` (payments)
+- Referential integrity between students ↔ rooms and payments ↔ students
+- Ready-to-run script: open `yurt_database.sql` in SSMS and execute
+
+---
+
 # 🏢 Yurt Yönetim Sistemi
 
 Öğrenci yurtlarının etkin yönetimi için geliştirilmiş kapsamlı bir veritabanı sistemi.
