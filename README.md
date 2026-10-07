@@ -1,6 +1,6 @@
 # 🏢 Dormitory Management Database (SQL Server)
 
-**🇬🇧 English** · [🇹🇷 Türkçe](#-yurt-yönetim-sistemi)
+**<img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/gb.png" height="14" alt="EN"/> English** · [<img src="https://raw.githubusercontent.com/canayglr/canayglr/main/assets/flags/tr.png" height="14" alt="TR"/> Türkçe](#-yurt-yönetim-sistemi)
 
 A relational **Microsoft SQL Server** database for running a student dormitory. It tracks **rooms** (capacity, occupancy, floor), **students**, **staff** and **payments** in one schema with primary/foreign keys and sample data.
 
